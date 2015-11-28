@@ -1,0 +1,14 @@
+{
+  "name": "comcheck",
+  "version": "0.5.4",
+  "description": "Verify commit messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "Robert Painsi",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
